@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="takePhoto_background">#80212121</color>
+    <color name="sticker_tab_background">#494949</color>
+    <color name="sticker_icon_background">#cc868585</color>
+
+
+    <!--滤镜字体颜色-->
+    <color name="filter_color">#ffffff</color>
+    <color name="filter_select_color">#04efef</color>
+
+    <!-- SpeakDialog -->
+    <color name="speak_dialog_bg">#553F51B5</color>
+</resources>

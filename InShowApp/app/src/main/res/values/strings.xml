@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InShowApp</string>
+    <string name="welcome">Copyright©深圳富泰宏精密工业有限公司</string>
+    <string name="request_permission">该功能需要相机权限</string>
+    <string name="cameraId_one">该设备只有一个摄像头</string>
+
+<!--滤镜种类名称-->
+    <string name="none">原图</string>
+    <string name="sunrise">日出</string>
+    <string name="beauty">白皙</string>
+    <string name="sakura">樱花</string>
+    <string name="romance">浪漫</string>
+    <string name="retro">灰制</string>
+    <string name="fairytale">童话</string>
+    <string name="sweet">甜美</string>
+    <string name="blackwhite">黑白</string>
+    <string name="latte">平静</string>
+
+    <string name="tv_dismiss">试着说“小富小富，拍照”</string>
+    <string name="cancle">重拍</string>
+    <string name="save">保存</string>
+    <string name="share">分享</string>
+</resources>

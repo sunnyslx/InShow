@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.idx.inshowapp.MainActivity">
+
+    <com.idx.inshowapp.renderer.CameraRenderView
+        android:id="@+id/camera_surface"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/tv_dismiss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/igb_tackPhoto"
+            android:layout_centerHorizontal="true" />
+        <ImageView
+            android:id="@+id/igb_tackPhoto"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="200dp"
+            android:background="@drawable/take_photo"
+            />
+        <ImageView
+            android:id="@+id/switch_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cut_icon"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="200dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="20dp"
+            android:layout_toStartOf="@id/igb_tackPhoto" />
+
+    <RelativeLayout
+        android:id="@+id/re2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include
+            layout="@layout/camera_bottom_layout" />
+        <include
+            android:visibility="invisible"
+            layout="@layout/filter_layout" />
+        <include
+            android:visibility="invisible"
+            layout="@layout/beauty_layout"
+            />
+        <include
+            android:visibility="invisible"
+            layout="@layout/sticker_layout"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

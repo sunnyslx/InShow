@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voice_welcome">
+        <item>您好啊！</item>
+        <item>您有啥事儿？</item>
+        <item>您有什么事儿？</item>
+        <item>您有什么吩咐？</item>
+        <item>您有什么吩咐吗？</item>
+        <item>什么事儿？</item>
+        <item>啥事儿？</item>
+    </string-array>
+
+    <string-array name="voice_bye">
+        <item>好像没有什么事儿，下次再见！</item>
+        <item>没有什么事儿，我休息去了！</item>
+        <item>想好了再告诉我吧，再见！</item>
+        <item>等得我花儿都谢啦，再见！</item>
+    </string-array>
+
+    <string-array name="voice_more">
+        <item>您还有什么吩咐吗？</item>
+        <item>您还有其他事儿吗？</item>
+        <item>还有事儿吗？</item>
+    </string-array>
+
+    <string-array name="voice_repeat">
+        <item>对不起，我没有听清楚您说的是什么，请重复！</item>
+        <item>对不起，请您再说一遍！</item>
+        <item>对不起，请您再说一次！</item>
+        <item>对不起，您大点声好吗，我听不见啦！</item>
+    </string-array>
+
+    <string-array name="voice_sorry">
+        <item>对不起，我糊涂了！</item>
+        <item>对不起，我需要调整下心情，再见！</item>
+        <item>对不起，臣妾做不到啦，再见！</item>
+        <item>网络慢得像蜗牛，伤不起啦，再见！</item>
+    </string-array>
+
+    <string-array name="help_calender">
+        <item>打开日历。</item>
+        <item>启动日历。</item>
+        <item>开启日历。</item>
+        <item>为我打开日历。</item>
+        <item>替我启动日历。</item>
+        <item>帮我打开日历。</item>
+        <item>帮助我开启日历。</item>
+        <item>请打开日历。</item>
+        <item>麻烦开启日历。</item>
+        <item>请帮我打开日历。</item>
+        <item>我想打开日历。</item>
+        <item>我想看日历。</item>
+        <item>我要看看日历。</item>
+        <item>我想要看一下日历。</item>
+        <item>我要看一看日历。</item>
+        <item>今天是周几？</item>
+        <item>明天是星期几？</item>
+        <item>今天礼拜几？</item>
+        <item>昨天是啥节假日？</item>
+        <item>今天什么节日？</item>
+        <item>明天是什么节日？</item>
+        <item>春节是几号？</item>
+        <item>春节是多少号？</item>
+        <item>春节是哪一天？</item>
+        <item>春节是哪天？</item>
+        <item>春节是什么日子？</item>
+        <item>春节是什么时候？</item>
+        <item>春节是什么时间？</item>
+        <item>几号是春节？</item>
+        <item>多少号是春节？</item>
+        <item>哪一天是春节？</item>
+        <item>哪天是春节？</item>
+        <item>什么日子是春节？</item>
+        <item>什么时候是春节？</item>
+        <item>什么时间是春节？</item>
+        <item>明天什么安排？</item>
+        <item>明天有什么事情？</item>
+        <item>明天我有什么事情？</item>
+        <item>明天有什么事情吗？</item>
+        <item>明天我有什么事情吗？</item>
+        <item>明天有什么事情要做？</item>
+        <item>明天我有什么事情要做？</item>
+        <item>明天有什么事情要做吗？</item>
+        <item>明天我有什么事情要做吗？</item>
+        <item>明天要做什么？</item>
+        <item>明天要做什么事情？</item>
+        <item>明天要做什么吗？</item>
+        <item>明天要做什么事情吗？</item>
+        <item>明天我要做什么？</item>
+        <item>明天我要做什么吗？</item>
+        <item>明天我要做什么事情？</item>
+        <item>明天我要做什么事情吗？</item>
+        <item>明天有什么需要做的事？</item>
+        <item>明天我有什么需要做的事？</item>
+        <item>明天有什么需要做的事吗？</item>
+        <item>明天我有什么需要做的事吗？</item>
+        <item>明天有要做的事吗？</item>
+        <item>明天我有要做的事吗？</item>
+        <item>明天有我要做的事吗？</item>
+        <item>明天有安排吗？</item>
+        <item>明天我有安排吗？</item>
+        <item>今天几号？</item>
+        <item>今天是几号？</item>
+        <item>明天农历几号？</item>
+        <item>明天是农历几号？</item>
+        <item>现在几点？</item>
+        <item>现在几点了？</item>
+        <item>现在是几点？</item>
+        <item>现在是几点了？</item>
+        <item>现在什么时间？</item>
+        <item>现在什么时间了？</item>
+        <item>现在是什么时间？</item>
+        <item>现在是什么时间了？</item>
+        <item>当前几点？</item>
+        <item>当前几点了？</item>
+        <item>当前什么时间了？</item>
+        <item>当前是什么时间？</item>
+        <item>此刻几点？</item>
+        <item>此刻几点了？</item>
+        <item>此刻什么时间了？</item>
+        <item>此刻是什么时间？</item>
+    </string-array>
+
+    <string-array name="help_map">
+        <item>打开地图。</item>
+        <item>启动地图。</item>
+        <item>开启地图。</item>
+        <item>为我打开地图。</item>
+        <item>替我启动地图。</item>
+        <item>帮我打开地图。</item>
+        <item>帮助我开启地图。</item>
+        <item>请打开地图。</item>
+        <item>麻烦开启地图。</item>
+        <item>请帮我打开地图。</item>
+        <item>我想打开地图。</item>
+        <item>这是哪?</item>
+        <item>这是什么地方?</item>
+        <item>我在哪里?</item>
+        <item>我在哪儿?</item>
+        <item>我是在什么位置?</item>
+        <item>我现在在哪里?</item>
+        <item>我此刻在什么地方?</item>
+        <item>我当前位于什么位置?</item>
+        <item>请问我在哪里?</item>
+        <item>请问这是在哪儿?</item>
+        <item>搜索。</item>
+        <item>帮我搜索。</item>
+        <item>请帮我搜索。</item>
+        <item>搜索小吃街，商场，宾馆，酒店，地铁站，公交站或公园。</item>
+        <item>请帮我搜索小吃街，商场，宾馆，酒店，地铁站，公交站或公园。</item>
+        <item>我想要搜索小吃街，商场，宾馆，酒店，地铁站，公交站或公园。</item>
+        <item>搜索深圳大学。</item>
+        <item>我想搜索深圳大学。</item>
+        <item>我想去龙华人民医院。</item>
+        <item>我想从深圳去广州。</item>
+        <item>我想驾车去深圳。</item>
+        <item>我想坐公交去深圳大学。</item>
+        <item>我想步行去清湖小学。</item>
+        <item>我想从深圳开车去广州。</item>
+        <item>我想开车从深圳去广州。</item>
+    </string-array>
+
+    <string-array name="help_music">
+        <item>打开音乐</item>
+        <item>启动音乐</item>
+        <item>开启音乐</item>
+        <item>为我打开音乐</item>
+        <item>替我启动音乐</item>
+        <item>帮我打开音乐</item>
+        <item>帮助我开启音乐</item>
+        <item>请打开音乐</item>
+        <item>麻烦开启音乐</item>
+        <item>请帮我打开音乐</item>
+        <item>我想打开音乐</item>
+        <item>播放音乐</item>
+        <item>播放歌曲</item>
+        <item>放首歌</item>
+        <item>来点音乐</item>
+        <item>播放一剪梅。</item>
+        <item>播放上一首。</item>
+        <item>上一首。</item>
+        <item>播放下一首。</item>
+        <item>下一首。</item>
+        <item>暂停。</item>
+        <item>暂停播放。</item>
+        <item>暂停播放音乐。</item>
+        <item>停止。</item>
+        <item>停止播放。</item>
+        <item>停止播放音乐。</item>
+        <item>继续。</item>
+        <item>继续播放。</item>
+        <item>继续播放音乐。</item>
+    </string-array>
+    <string-array name="help_weather">
+        <item>打开天气。</item>
+        <item>查询天气。</item>
+        <item>查看天气。</item>
+        <item>查询今天深圳天气。</item>
+        <item>查看武汉明天天气。</item>
+        <item>查看上海后天天气。</item>
+        <item>今天深圳的温度怎么样？</item>
+        <item>明天上海的温度咋样？</item>
+        <item>后天重庆的温度如何？</item>
+        <item>重庆后天的温度怎样？</item>
+        <item>深圳明天温度怎么样？</item>
+        <item>武汉今天温度如何？</item>
+        <item>重庆后天温度咋样？</item>
+        <item>今天上海温度怎样？</item>
+        <item>今天深圳温度是多少度？</item>
+        <item>后天厦门温度是几度？</item>
+        <item>武汉后天温度是多少度？</item>
+        <item>广州明天温度是几度？</item>
+        <item>山东今天温度是多少？</item>
+        <item>明天济南温度是多少？</item>
+        <item>洛阳今天温度。</item>
+        <item>明天南昌温度。</item>
+        <item>哈尔滨今天冷吗？</item>
+        <item>明天黑龙江热吗？</item>
+        <item>长沙今天空气质量怎么样？</item>
+        <item>长沙明天空气质量咋样？</item>
+        <item>后天岳阳空气质量如何？</item>
+        <item>明天黄石空气质量怎样？</item>
+        <item>武汉后天空气质量。</item>
+        <item>北京当前温度是多少？</item>
+        <item>北京现在温度是多少？</item>
+        <item>北京此刻温度是多少？</item>
+        <item>福建当前温度是多少度？</item>
+        <item>福建现在温度是多少度？</item>
+        <item>福建此刻温度是多少度？</item>
+        <item>成都当前温度是几度？</item>
+        <item>成都现在温度是几度？</item>
+        <item>成都此刻温度是几度？</item>
+        <item>上海此刻温度。</item>
+        <item>上海此刻温度。</item>
+        <item>上海此刻温度。</item>
+        <item>今天太原天气状况。</item>
+        <item>太原明天天气状况。</item>
+        <item>石家庄后天天气状况。</item>
+        <item>今天武汉有雨吗？</item>
+        <item>武汉明天有雨吗？</item>
+        <item>深圳后天下雨吗？</item>
+        <item>今天深圳下雨吗？</item>
+        <item>明天郑州有没有雨？</item>
+        <item>郑州今天有没有雨？</item>
+        <item>合肥今天的紫外线强度怎么样？</item>
+        <item>深圳后天的紫外线强度咋样？</item>
+        <item>明天上海的紫外线强度如何？</item>
+        <item>今天广州的紫外线强度怎样？</item>
+        <item>合肥今天紫外线强度怎么样？</item>
+        <item>深圳后天紫外线强度咋样？</item>
+        <item>明天上海紫外线强度如何？</item>
+        <item>今天广州紫外线强度怎样？</item>
+        <item>石家庄今天紫外线强度。</item>
+        <item>明天上海紫外线强度。</item>
+        <item>长沙今天紫外线怎么样？</item>
+        <item>太原后天紫外线咋样？</item>
+        <item>明天上海紫外线如何？</item>
+        <item>今天山东紫外线怎样？</item>
+        <item>今天深圳有雾霾吗？</item>
+        <item>北京明天有雾霾吗？</item>
+        <item>山东今天外出需要防霾口罩吗？</item>
+        <item>明天郑州外出需要防霾口罩吗？</item>
+        <item>启动天气。</item>
+        <item>开启天气。</item>
+        <item>我想打开天气。</item>
+        <item>我要启动天气。</item>
+        <item>我想要开启天气。</item>
+        <item>搜索天气。</item>
+        <item>搜查天气。</item>
+        <item>搜寻天气。</item>
+        <item>我想查看天气。</item>
+        <item>我要搜索天气。</item>
+        <item>我想要看看天气。</item>
+        <item>我要看一下天气。</item>
+        <item>我想要看天气。</item>
+        <item>我想搜查天气。</item>
+        <item>我想要搜寻天气 。</item>
+        <item>我要查询天气 。</item>
+        <item>我想查看深圳明天天气 。</item>
+        <item>我要搜索武汉今天天气 。</item>
+        <item>我想要看看后天厦门天气 。</item>
+        <item>我想要看一下今天广州天气 。</item>
+        <item>我要看成都今天天气 。</item>
+        <item>我想搜查今天佛山天气 。</item>
+        <item>我想要搜寻武汉明天天气 。</item>
+        <item>我想查询今天上海天气 。</item>
+        <item>我要查看深圳天气 。</item>
+        <item>我想要搜索广州天气 。</item>
+        <item>我想看看上海天气 。</item>
+        <item>我要搜寻武汉天气 。</item>
+        <item>我想要查询重庆天气 。</item>
+        <item>我要搜索今天天气 。</item>
+        <item>我想要看看明天天气 。</item>
+        <item>我想查询后天天气 。</item>
+        <item>我想查询天气。</item>
+        <item>我要搜索天气。</item>
+        <item>我想要看看天气。</item>
+        <item>我想要看一下天气。</item>
+        <item>我要看天气。</item>
+        <item>我想要搜查天气。</item>
+        <item>几度。</item>
+        <item>多少度。</item>
+        <item>温度。</item>
+        <item>温度是多少。</item>
+        <item>温度是多少度。</item>
+        <item>温度是几度。</item>
+        <item>温度咋样。</item>
+        <item>温度怎么样。</item>
+        <item>温度如何。</item>
+        <item>温度怎样。</item>
+        <item>今天温度。</item>
+        <item>明天温度是多少。</item>
+        <item>后天温度是多少度。</item>
+        <item>今天温度是几度。</item>
+        <item>明天温度咋样。</item>
+        <item>今天温度怎么样。</item>
+        <item>明天温度如何。</item>
+        <item>后天温度怎样。</item>
+        <item>今天几度。</item>
+        <item>明天多少度。</item>
+        <item>后天是几度。</item>
+        <item>今天是多少度。</item>
+        <item>北京温度。</item>
+        <item>上海温度是多少。</item>
+        <item>广州温度是多少度。</item>
+        <item>福建温度是几度。</item>
+        <item>武汉温度咋样。</item>
+        <item>成都温度怎么样。</item>
+        <item>厦门温度如何。</item>
+        <item>重庆温度怎样。</item>
+        <item>上海多少度。</item>
+        <item>佛山几度。</item>
+        <item>天津是几度。</item>
+        <item>南昌是多少度。</item>
+        <item>明天深圳温度是多少度。</item>
+        <item>今天广州温度是几度。</item>
+        <item>厦门后天温度是多少。</item>
+        <item>福建明天温度。</item>
+        <item>今天武汉温度是多少。</item>
+        <item>南昌后天温度。</item>
+        <item>深圳当前温度是多少。</item>
+        <item>武汉此刻温度是多少度。</item>
+        <item>广州当前是几度。</item>
+        <item>重庆现在温度。</item>
+        <item>哈尔滨当前几度。</item>
+        <item>黑龙江此刻多少度。</item>
+        <item>武汉当前温度咋样。</item>
+        <item>佛山现在温度怎么样。</item>
+        <item>成都现在温度如何。</item>
+        <item>长沙当前温度怎样。</item>
+        <item>当前武汉温度。</item>
+        <item>现在温度是多少。</item>
+        <item>此刻温度是多少度。</item>
+        <item>当前温度是几度。</item>
+        <item>现在温度咋样。</item>
+        <item>此刻温度怎么样。</item>
+        <item>现在温度如何。</item>
+        <item>现在温度怎样。</item>
+        <item>此刻是几度。</item>
+        <item>当前是多少度。</item>
+        <item>当前几度。</item>
+        <item>现在多少度。</item>
+        <item>空气质量咋样。</item>
+        <item>空气质量。</item>
+        <item>空气质量如何。</item>
+        <item>空气质量怎样。</item>
+        <item>空气质量怎么样。</item>
+        <item>空气咋样。</item>
+        <item>空气怎么样。</item>
+        <item>空气怎样。</item>
+        <item>空气如何。</item>
+        <item>今天空气质量。</item>
+        <item>明天空气。</item>
+        <item>后天空气质量咋样。</item>
+        <item>今天空气质量如何。</item>
+        <item>重庆空气怎样 。</item>
+        <item>宝鸡空气怎么样。</item>
+        <item>今天深圳有雾霾吗。</item>
+        <item>武汉明天有雾吗。</item>
+        <item>佛山后天有没有雾霾。</item>
+        <item>北京今天有没有雾。</item>
+        <item>今天有雾吗。</item>
+        <item>明天有雾霾吗。</item>
+        <item>北京有雾吗。</item>
+        <item>上海有雾霾吗。</item>
+        <item>明天有没有雾。</item>
+        <item>后天有没有雾霾。</item>
+        <item>深圳有没有雾。</item>
+        <item>成都有没有雾霾。</item>
+        <item>今天深圳紫外线强度。</item>
+        <item>深圳明天紫外线强度。</item>
+        <item>明天紫外线。</item>
+        <item>后天紫外线。</item>
+        <item>明天紫外线强度。</item>
+        <item>广州紫外线。</item>
+        <item>佛山紫外线强度。</item>
+        <item>北京今天的紫外线怎么样？</item>
+        <item>北京今天的紫外线咋样？</item>
+        <item>北京今天的紫外线如何？</item>
+        <item>北京今天的紫外线怎样？</item>
+        <item>今天紫外线怎么样？</item>
+        <item>明天紫外线咋样？</item>
+        <item>后天紫外线如何？</item>
+        <item>今天紫外线怎样？</item>
+        <item>深圳今天紫外线怎么样？</item>
+        <item>明天武汉紫外线咋样？</item>
+        <item>广州后天紫外线如何？</item>
+        <item>成都今天紫外线怎样？</item>
+        <item>北京紫外线怎么样？</item>
+        <item>武汉紫外线咋样？</item>
+        <item>广州紫外线如何？</item>
+        <item>济南紫外线怎样？</item>
+        <item>明天紫外线强度怎么样？</item>
+        <item>后天紫外线强度咋样？</item>
+        <item>今天紫外线强度如何？</item>
+        <item>明天紫外线强度怎样？</item>
+        <item>深圳紫外线强度怎么？</item>
+        <item>武汉紫外线强度咋样？</item>
+        <item>成都紫外线强度如何？</item>
+        <item>南昌紫外线强度怎样？</item>
+        <item>北京今天有雨吗？</item>
+        <item>武汉后天下雨吗？</item>
+        <item>明天深圳有没有雨。</item>
+        <item>广州今天有雨不。</item>
+        <item>后天重庆下雨不。</item>
+        <item>今天有雨吗？</item>
+        <item>明天下雨吗？</item>
+        <item>后天有没有雨。</item>
+        <item>今天有雨不。</item>
+        <item>明天下雨不。</item>
+        <item>北京有雨吗？</item>
+        <item>深圳下雨吗？</item>
+        <item>成都有没有雨   。</item>
+        <item>上海有雨不。</item>
+        <item>济南下雨不。</item>
+        <item>有雨吗？</item>
+        <item>下雨吗？</item>
+        <item>有没有雨。</item>
+        <item>有雨不。</item>
+        <item>下雨不。</item>
+        <item>北京明天天气适合穿什么衣服 。</item>
+        <item>今天上海天气适合啥衣服 。</item>
+        <item>深圳后天适合穿什么衣服 。</item>
+        <item>今天广州适合穿啥衣服 。</item>
+        <item>成都今天适合什么衣服 。</item>
+        <item>重庆后天适合啥衣服 。</item>
+        <item>广州今天穿什么衣服 。</item>
+        <item>明天深圳穿啥衣服 。</item>
+        <item>深圳今天天气适合穿什么 。</item>
+        <item>武汉明天天气适合穿啥 。</item>
+        <item>济南后天适合穿什么 。</item>
+        <item>济南后天适合穿啥 。</item>
+        <item>深圳今天穿什么 。</item>
+        <item>武汉明天穿啥什么 。</item>
+        <item>今天穿啥 。</item>
+        <item>明天穿啥衣服 。</item>
+        <item>北京穿啥 。</item>
+        <item>武汉穿什么 。</item>
+        <item>广州穿啥衣服 。</item>
+        <item>上海穿什么衣服 。</item>
+        <item>天气 。</item>
+        <item>天气状况 。</item>
+        <item>天气如何 。</item>
+        <item>天气咋样 。</item>
+        <item>天气怎么样 。</item>
+        <item>天气怎样 。</item>
+        <item>天气状况如何 。</item>
+        <item>天气状况咋样 。</item>
+        <item>天气状况怎么样 。</item>
+        <item>天气状况怎样 。</item>
+        <item>今天天气 。</item>
+        <item>明天天气状况 。</item>
+        <item>后天天气如何 。</item>
+        <item>今天天气咋样 。</item>
+        <item>明天天气怎么样 。</item>
+        <item>今天天气怎样 。</item>
+        <item>今天天气状况如何 。</item>
+        <item>明天天气状况咋样 。</item>
+        <item>后天天气状况怎么样 。</item>
+        <item>今天天气状况怎样 。</item>
+        <item>深圳天气 。</item>
+        <item>济南天气状况 。</item>
+        <item>武汉天气咋样 。</item>
+        <item>广州天气如何 。</item>
+        <item>重庆天气怎么样 。</item>
+        <item>上海天气怎样 。</item>
+        <item>佛山天气状况如何 。</item>
+        <item>中山天气状况咋样 。</item>
+        <item>东莞天气状况怎么样 。</item>
+        <item>杭州天气状况怎样 。</item>
+        <item>深圳今天天气如何 。</item>
+        <item>武汉明天天气咋样 。</item>
+        <item>后天广州天气怎么样 。</item>
+        <item>今天重庆天气怎样 。</item>
+        <item>我想知道天气 。</item>
+        <item>我想知道天气状况 。</item>
+        <item>我想知道天气咋样 。</item>
+        <item>我想知道天气如何 。</item>
+        <item>我想知道天气怎样 。</item>
+        <item>我想知道天气怎么样 。</item>
+        <item>我想知道天气状况咋样 。</item>
+        <item>我想知道天气状况如何 。</item>
+        <item>我想知道天气状况怎样 。</item>
+        <item>我想知道天气状况怎么样 。</item>
+        <item>我想知道今天天气 。</item>
+        <item>我想知道明天天气状况 。</item>
+        <item>我想知道后天天气咋样 。</item>
+        <item>我想知道今天天气如何 。</item>
+        <item>我想知道后天天气咋样 。</item>
+        <item>我想知道今天天气怎么样 。</item>
+        <item>我想知道后天天气状况咋样 。</item>
+        <item>我想知道今天天气状况如何 。</item>
+        <item>我想知道明天天气状况怎样 。</item>
+        <item>我想知道今天天气状况怎么样 。</item>
+        <item>我想知道深圳天气 。</item>
+        <item>我想知道武汉天气状况 。</item>
+        <item>我想知道上海天气咋样 。</item>
+        <item>我想知道济南天气如何 。</item>
+        <item>我想知道杭州天气怎么样 。</item>
+        <item>我想知道南京天气状况咋样 。</item>
+        <item>我想知道扬州天气状况如何 。</item>
+        <item>我想知道重庆天气状况怎样 。</item>
+        <item>我想知道天津天气状况怎么样 。</item>
+        <item>我想知道深圳今天天气 。</item>
+        <item>我想知道明天武汉天气状况 。</item>
+        <item>我想知道后天南京天气咋样 。</item>
+        <item>我想知道北京明天天气如何 。</item>
+        <item>我想知道杭州今天天气怎么样 。</item>
+        <item>我想知道后天南京天气状况咋样 。</item>
+        <item>我想知道北京明天天气状况如何 。</item>
+        <item>我想知道杭州今天天气状况怎么样 。</item>
+    </string-array>
+    <string-array name="help_shopping">
+        <item>打开购物。</item>
+        <item>我要购物。</item>
+        <item>打开苹果专区。</item>
+        <item>打开夏普专区。</item>
+        <item>打开发现。</item>
+        <item>打开企业团购。</item>
+        <item>打开注册页面。</item>
+        <item>打开登录页面。</item>
+        <item>打开购物车。</item>
+        <item>我的购物车。</item>
+        <item>查询我的购物车。</item>
+        <item>查看我的购物车。</item>
+        <item>我的订单。</item>
+        <item>查询我的订单。</item>
+        <item>查看我的订单。</item>
+        <item>我的优惠券。</item>
+        <item>查询我的优惠券。</item>
+        <item>查看我的优惠券。</item>
+        <item>我的富连网。</item>
+        <item>查询我的富连网。</item>
+        <item>查看我的富连网。</item>
+        <item>查询手机。</item>
+        <item>查看手机。</item>
+        <item>我要买手机。</item>
+        <item>查询手机配件。</item>
+        <item>查看手机配件。</item>
+        <item>我要买手机配件。</item>
+        <item>查询智能设备。</item>
+        <item>查看智能设备。</item>
+        <item>我要买智能设备。</item>
+        <item>查询车载电器。</item>
+        <item>查询看车载电器。</item>
+        <item>我要买车载电器。</item>
+        <item>查询苹果配件。</item>
+        <item>查看苹果配件。</item>
+        <item>我要买苹果配件。</item>
+        <item>查询台式机。</item>
+        <item>查看台式机。</item>
+        <item>我要买台式机。</item>
+        <item>查询电脑整机。</item>
+        <item>查看电脑整机。</item>
+        <item>我要买电脑整机。</item>
+        <item>查询外设产品。</item>
+        <item>查看外设产品。</item>
+        <item>我要买外设产品。</item>
+        <item>查询夏普电视。</item>
+        <item>查看夏普电视。</item>
+        <item>我要买夏普电视。</item>
+        <item>查询生活电器。</item>
+        <item>查看生活电器。</item>
+        <item>我要买生活电器。</item>
+        <item>查询个护健康。</item>
+        <item>查看个护健康。</item>
+        <item>我要买个护健康。</item>
+        <item>查询厨房小电。</item>
+        <item>查看厨房小电。</item>
+        <item>我要买厨房小电。</item>
+        <item>查询家庭影音。</item>
+        <item>查看家庭影音。</item>
+        <item>我要买家庭影音。</item>
+        <item>查询冰箱。</item>
+        <item>查看冰箱。</item>
+        <item>我要买冰箱。</item>
+        <item>查询洗衣机。</item>
+        <item>查看洗衣机。</item>
+        <item>我要买洗衣机。</item>
+        <item>打开智能健康。</item>
+        <item>查询智能健康。</item>
+        <item>查看智能健康。</item>
+        <item>打开富可视电视。</item>
+        <item>查询富可视电视。</item>
+        <item>查看富可视电视。</item>
+        <item>打开智能手机。</item>
+        <item>查询智能手机。</item>
+        <item>查看智能手机。</item>
+        <item>我要买智能手机。</item>
+        <item>打开功能手机。</item>
+        <item>查询功能手机。</item>
+        <item>查看功能手机。</item>
+        <item>我要买功能手机。</item>
+        <item>查询耳机。</item>
+        <item>查看耳机。</item>
+        <item>我要买耳机。</item>
+        <item>帮我查看耳机。</item>
+        <item>查询音箱。</item>
+        <item>查看音箱。</item>
+        <item>我要买音箱。</item>
+        <item>帮我查询音箱。</item>
+        <item>查询数据线。</item>
+        <item>查看数据线。</item>
+        <item>我要买数据线。</item>
+        <item>帮我查询数据线。</item>
+        <item>查询转接头。</item>
+        <item>查看转接头。</item>
+        <item>我要买转接头。</item>
+        <item>帮我查询转接头。</item>
+        <item>查询手机保护套。</item>
+        <item>查看数手机保护套。</item>
+        <item>我要买手机保护套。</item>
+        <item>帮我查询手机保护套。</item>
+        <item>查询移动电源。</item>
+        <item>查看移动电源。</item>
+        <item>我要买移动电源。</item>
+        <item>帮我查询移动电源。</item>
+        <item>查询创意配件。</item>
+        <item>查询智能手表。</item>
+        <item>查询智能穿戴。</item>
+        <item>查询酷新奇。</item>
+        <item>查询其他配件。</item>
+        <item>查询车载充电器。</item>
+        <item>查询车载配件。</item>
+        <item>查询创意配件。</item>
+        <item>查询苹果手机配件。</item>
+        <item>查询一体机。</item>
+        <item>查询台式主机。</item>
+        <item>查询显示器。</item>
+        <item>查询平板电脑。</item>
+        <item>查询笔记本。</item>
+        <item>查询平板配件。</item>
+        <item>查询游戏本。</item>
+        <item>查询笔记本配件。</item>
+        <item>查询台式整机。</item>
+        <item>查询平板电脑配件。</item>
+        <item>查询u盘。</item>
+        <item>查询存储卡。</item>
+        <item>查询键盘鼠标。</item>
+        <item>查询耳机耳麦。</item>
+        <item>查询电脑音箱。</item>
+        <item>查询键鼠套装。</item>
+        <item>查询鼠标垫。</item>
+        <item>查询清洁套装。</item>
+        <item>查询游戏设备。</item>
+        <item>查询打印机。</item>
+        <item>查询8k超清电视。</item>
+        <item>查询电视配件。</item>
+        <item>查询40寸以下电视。</item>
+        <item>查询45到50寸电视。</item>
+        <item>查询60到70寸电视。</item>
+        <item>查询70寸以上电视。</item>
+        <item>查询口腔护理。</item>
+        <item>查询空气净化器。</item>
+        <item>查询毛球修剪器。</item>
+        <item>查询电风扇。</item>
+        <item>查询净水器。</item>
+        <item>查询台灯。</item>
+        <item>查询按摩器。</item>
+        <item>查询电吹风。</item>
+        <item>查询理发器。</item>
+        <item>查询剃须刀。</item>
+        <item>查询电压力锅。</item>
+        <item>查询豆浆机。</item>
+        <item>查询电饭煲。</item>
+        <item>查询面包机。</item>
+        <item>查询电水壶。</item>
+        <item>查询电磁炉。</item>
+        <item>查询油烟机。</item>
+        <item>查询多用途锅。</item>
+        <item>查询影音娱乐。</item>
+        <item>查询迷你音响。</item>
+        <item>查询影音配件。</item>
+        <item>查询多门冰箱。</item>
+        <item>查询对开门冰箱。</item>
+        <item>查询三门冰箱。</item>
+        <item>查询双门冰箱。</item>
+        <item>查询滚筒洗衣机。</item>
+        <item>查询波轮洗衣机。</item>
+    </string-array>
+
+    <string-array name="help_pre">
+        <item>您可以这样问，</item>
+        <item>您可以对我说，</item>
+    </string-array>
+
+    <string-array name="help_end">
+        <item>等等！</item>
+    </string-array>
+
+</resources>

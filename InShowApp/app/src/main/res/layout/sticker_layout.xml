@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:layout_alignParentBottom="true"
+    android:background="@color/sticker_icon_background"
+    android:id="@+id/sticker_layout"
+    android:orientation="vertical"
+    android:layout_below="@id/switch_camera">
+<LinearLayout
+    android:id="@+id/sticker_tab"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@color/sticker_tab_background">
+    <ImageView
+        android:id="@+id/return_tab_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/return_icon"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="17dp"/>
+    <ImageView
+        android:id="@+id/unselect_tab_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/artwork_icon"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="17dp"/>
+    <ImageView
+        android:id="@+id/animal_tab_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/animal_icon_select"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="17dp"/>
+    <ImageView
+        android:id="@+id/funny_tab_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/funny_icon_default"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="17dp" />
+    <ImageView
+        android:id="@+id/fruit_tab_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fruit_icon_default"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="17dp"/>
+    <ImageView
+        android:id="@+id/beautify_tab_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/decorate_icon_default"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="17dp"/>
+    <ImageView
+        android:id="@+id/boy_tab_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/boy_icon_default"
+        android:layout_gravity="center_vertical"/>
+</LinearLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
